@@ -3,7 +3,7 @@
   <img width="300" alt="Avatar" src="https://avatars.githubusercontent.com/u/63281362?v=4" />
 
   <h4 align="center">
-     Api Nodejs Com Express + MongoDB Utilizando o mongoose para se conectar com o banco<a href="https://www.youtube.com/watch?v=6TEo2AxW-oQ">here</a>
+     Api Nodejs Com Express + MongoDB Utilizando o mongoose para se conectar com o banco
   </h4>
 </div>
 
